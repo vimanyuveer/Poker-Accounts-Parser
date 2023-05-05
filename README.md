@@ -5,16 +5,13 @@ parser.py- A simple script for parsing through poker accounts for the semester
 
 Format: whatsapp exports with format
 
+```
 DD/MM
-
 NAME +int
-
 NAME -int
-
 ...
-
 /end
-
+```
 
 c version of parser.c `TO-DO!`
 
